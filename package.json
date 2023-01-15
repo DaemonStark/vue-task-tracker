@@ -1,0 +1,23 @@
+{
+  "name": "vue-task-tracker",
+  "version": "1.0.0",
+  "description": "Task Tracker Web App Created using Vue JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaemonStark/vue-task-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaemonStark/vue-task-tracker/issues"
+  },
+  "homepage": "https://github.com/DaemonStark/vue-task-tracker#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
